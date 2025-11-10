@@ -1,6 +1,6 @@
 [versions]
 kotlin = "2.2.20-Beta1"
-ksp = "2.2.0-2.0.2"
+ksp = "2.3.2"
 detekt = "1.23.8"
 kover = "0.9.1"
 vanniktech-maven-publish = "0.34.0"
