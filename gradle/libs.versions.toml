@@ -1,5 +1,5 @@
 [versions]
-kotlin = "2.2.20-Beta1"
+kotlin = "2.3.0-RC"
 ksp = "2.2.0-2.0.2"
 detekt = "1.23.8"
 kover = "0.9.1"
